@@ -2,9 +2,7 @@
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
 }
-.App{
-  background-color: #252323;
-}
+
 :root {
   --primary: #2A7AE4;
   --black: #000000;
