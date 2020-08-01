@@ -9,6 +9,7 @@ const Main = styled.main`
     padding-top: 30px;
     padding-left: 5%;
     padding-right: 5%;
+    padding-bottom: 20px;
     flex: 1;
 
     ${({paddingAll}) => css`
@@ -16,7 +17,7 @@ const Main = styled.main`
     `}
 
     @media (max-width: 800px) {
-        padding-top: 20px;
+        padding-bottom: 20px;
     }
 `;
 
